@@ -1,0 +1,83 @@
+
+body {
+    font-size: 16px;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#home {
+    background-color: #dbeafe;
+    padding: 50px 20px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 35px;
+    margin: 10px;
+}
+
+h2 {
+    color: #2563eb;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #1e40af;
+}
+
+.project {
+    background-color: white;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 400px;
+    border-radius: 8px;
+}
+
+#contact {
+    background-color: #e5e7eb;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
